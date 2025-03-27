@@ -1,2 +1,1 @@
-# API-Screeeeeeeeeen
-A repository for managing people with a Flask API and UI
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
